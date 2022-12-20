@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrisp",
+    "sketch": "..\\..\\Documents\\PlatformIO\\Projects\\Hand Guesture\\src\\Hand_Gesture_car_Tx_ver_02.ino",
+    "port": "COM11"
+}
